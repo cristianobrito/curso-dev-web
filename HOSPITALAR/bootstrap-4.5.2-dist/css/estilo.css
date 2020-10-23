@@ -1,0 +1,64 @@
+.jumbotron{
+	 background-image: url('F:/FIC_curso/HOSPITALAR/imagens/img/hospitalarazul.jpg');
+     background-size: cover;
+     background-position: center;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #007bff;
+}
+.mestre{
+	width: 56px;
+	height: 56px;
+}
+.icones a{
+	display: block;
+	width: 36px;
+	height: 36px;
+}
+.icones li{
+	display: inline-block;
+	margin-left: 0.2rem;
+
+}
+.icones a[href='https://github.com/']{
+	background-image: url('F:/FIC_curso/HOSPITALAR/imagens/img/github.png');
+	background-size: 36px 36px;
+}
+.icones a[href='https://www.google.com/']{
+	background-image: url('F:/FIC_curso/HOSPITALAR/imagens/img/plus.png');
+	background-size: 36px 36px;
+}
+.icones a[href='https://br.linkedin.com/']{
+	background-image: url('F:/FIC_curso/HOSPITALAR/imagens/img/Linkedin.png');
+	background-size: 36px 36px;
+}
+.icones a[href='https://www.facebook.com/']{
+	background-image: url('F:/FIC_curso/HOSPITALAR/imagens/img/Facebook-logo.png');
+	background-size: 36px 36px;
+}
+.copy{
+	color: #FFFFFF;
+}
+.avaliado{
+	color: #ffffff;
+}
+.card-header{
+	background-image: url('F:/FIC_curso/HOSPITALAR/imagens/img/hospaz.jpg');
+	background-size: cover;
+	background-position: center;
+}
+
+/*
+.nav-link{
+	padding-top: 5rem;
+	padding-left: ;
+	padding-right: ;
+	padding-bottom: ;
+	background: #E40505;
+	border: solid 1px;
+	margin-right: 1rem;
+	margin-left: 2rem;
+	margin-top: 2rem;
+	margin-bottom: 3rem;
+}
+*/
